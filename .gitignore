@@ -1,0 +1,10 @@
+*.exe
+*.dll
+*.suo
+*.user
+*.log
+*.nuspec
+*.orig
+bin
+obj
+*.idea
